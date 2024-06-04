@@ -41,12 +41,12 @@ button {
 }
 
 button:hover {
-    background-color: #c3ff00;
+    background-color: #C3FF00;
     color: #141414;
     cursor: pointer;
 }
 
 .localization {
     font-weight: bold;
-    color: #c3ff00;
+    color: #C3FF00;
 }
