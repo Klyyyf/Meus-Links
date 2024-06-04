@@ -20,6 +20,7 @@ body {
 }
 
 h1 {
+    font-size: 25px;
     margin-bottom: -10px;
 }
 
@@ -40,12 +41,12 @@ button {
 }
 
 button:hover {
-    background-color: #C7E175;
+    background-color: #c3ff00;
     color: #141414;
     cursor: pointer;
 }
 
 .localization {
     font-weight: bold;
-    color: #C7E175;
+    color: #c3ff00;
 }
