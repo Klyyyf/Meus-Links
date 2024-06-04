@@ -1,3 +1,52 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+body {
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 15px;
+}
 
+.container {
+    color: #FFFFFF;
+    background-color: #1F1F1F;
+    border-radius: 15px;
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 25px;
+    margin-bottom: -10px;
+}
+
+.profile {
+    height: 80px;
+    border-radius: 50%;
+}
+
+button {
+    background-color: #333333;
+    color: #FFFFFF;
+    border: 0;
+    border-radius: 8px;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    margin: 8px 0px 8px 0px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #C7E175;
+    color: #141414;
+    cursor: pointer;
+}
+
+.localization {
+    font-weight: bold;
+    color: #C7E175;
+}
